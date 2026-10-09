@@ -1,0 +1,25 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuildold
+.cxx
+local.properties
+*.apk
+*.aab
+
+# Local configuration and secrets
+local.properties
+.env
+.env.*
+
+# Gradle and build outputs
+.gradle/
+**/build/
+
+# Android Studio local files
+.idea/
+*.iml

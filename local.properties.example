@@ -1,0 +1,6 @@
+# Copy this file to local.properties (which is gitignored) and fill in your own values,
+# OR pass them as -P flags: ./gradlew assembleDebug -PSAFE_BROWSING_API_KEY=xxx -PFOOTBALL_DATA_API_KEY=yyy -PAPI_FOOTBALL_KEY=zzz
+sdk.dir=/path/to/your/Android/sdk
+SAFE_BROWSING_API_KEY=your_google_safe_browsing_key
+FOOTBALL_DATA_API_KEY=your_football_data_org_key
+API_FOOTBALL_KEY=your_api_football_key
